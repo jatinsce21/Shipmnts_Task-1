@@ -17,4 +17,25 @@ git clone https://github.com/jatinsce21/Health-Care-Plus.git
 npm install --force
 ```
 
+### 3. Run the Application
+
+#### Backend
+
+```bash
+
+npm start
+```
+
+The backend server will run on http://localhost:4000 by default.
+
+
+
+
+
+
+
+
+
+
+
 
